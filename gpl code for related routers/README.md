@@ -7,5 +7,7 @@ Have the same size RAM: 128MB
 Have the same size flash: 128MB
 
 Source links for GPL code so far:
-http://download-c.huawei.com/download/downloadCenter?downloadId=28981&version=52341&siteCode=worldwide - Huawei HG635 GPL Code]
+
+http://download-c.huawei.com/download/downloadCenter?downloadId=28981&version=52341&siteCode=worldwide - Huawei HG635 GPL Code
+
 https://dlink-gpl.s3.amazonaws.com/GPL1400342/DSL6850UA1_GPL10008BZ.tar.gz - D-Link DSL6850U GPL Code
